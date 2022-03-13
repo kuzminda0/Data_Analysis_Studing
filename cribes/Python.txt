@@ -1,0 +1,10 @@
+df.pivot_table(index='строки', columns='столбцы', values='значения', aggfunc='как считать')
+
+abs = [321, 213, 432, 546]
+for i in abs:
+	print(i)
+
+321
+213
+432
+546
